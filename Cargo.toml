@@ -1,0 +1,10 @@
+[package]
+name = "upget"
+version = "0.1.0"
+authors = ["Nossie531"]
+edition = "2021"
+description = "Super simple trait that patterns the value \"updae\" and \"get\"."
+repository = "https://github.com/nossie531/upget"
+license = "MIT OR Apache-2.0"
+keywords = ["update", "get", "closure"]
+categories = ["no-std", "rust-patterns"]
