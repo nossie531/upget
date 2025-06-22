@@ -34,3 +34,8 @@ Such refactoring has the following benefits.
 * Simplification of code.
 * Elimination of intermediate variables.
 * Elimination of the `mut` specification.
+
+## What's new?
+
+* Rust edition is updated to 2024.
+* Add `prelude` module (Although this crate is very small).
